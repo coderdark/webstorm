@@ -1,4 +1,5 @@
 # Webstorm
+https://quickref.me/webstorm.html
 
 ## Shortcuts
 + Search everywhere - `Double ⇧Shift`
